@@ -3,6 +3,8 @@ This project used create-react-app.  After using c3js several times, I extracted
 
  `npm start` will start the project.  Navigate to [http://localhost:3000](http://localhost:3000) once the project starts up.
 
+ Checkout the [DEMO](https://tml123.github.io/react-c3/).
+
  The two examples provided show a static donut chart as well as a "real time" line graph using a c3js flow function.  You can read more about the interface for c3js [here](https://c3js.org/).  Using this project is really a React wrapper around c3's API.
 
  ## Props
